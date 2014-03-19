@@ -1,0 +1,5 @@
+This project is authored by Zoujin Ouyang and Zhongjie Ren.
+
+The code is intended to run on Python 2.7.
+
+Before running the code, make sure nltk is installed and nltk corpora data is downloaded.
